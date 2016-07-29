@@ -1,0 +1,6 @@
+C:\Users\ana.borges\Desktop\Prime numbers\Prime numbers\bin\Debug\Prime numbers.exe.config
+C:\Users\ana.borges\Desktop\Prime numbers\Prime numbers\obj\Debug\Prime numbers.csprojResolveAssemblyReference.cache
+C:\Users\ana.borges\Desktop\Prime numbers\Prime numbers\bin\Debug\Prime numbers.exe
+C:\Users\ana.borges\Desktop\Prime numbers\Prime numbers\bin\Debug\Prime numbers.pdb
+C:\Users\ana.borges\Desktop\Prime numbers\Prime numbers\obj\Debug\Prime numbers.exe
+C:\Users\ana.borges\Desktop\Prime numbers\Prime numbers\obj\Debug\Prime numbers.pdb
